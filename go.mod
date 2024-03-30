@@ -20,7 +20,7 @@ require (
 	github.com/labstack/echo/v4 v4.11.4
 	github.com/redis/go-redis/v9 v9.5.1
 	github.com/swaggo/echo-swagger v1.4.1
-	github.com/swaggo/swag v1.16.2
+	github.com/swaggo/swag v1.16.3
 	github.com/urfave/cli/v2 v2.27.1
 	golang.org/x/crypto v0.20.0
 	golang.org/x/oauth2 v0.17.0
