@@ -27,13 +27,12 @@ require (
 	github.com/urfave/cli/v2 v2.27.1
 	go.uber.org/fx v1.21.1
 	golang.org/x/crypto v0.20.0
-	golang.org/x/oauth2 v0.17.0
+	golang.org/x/oauth2 v0.21.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 )
 
 require (
-	cloud.google.com/go/compute v1.20.1 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
@@ -94,7 +93,6 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.14.0 // indirect
-	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
